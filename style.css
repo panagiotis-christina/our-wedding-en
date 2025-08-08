@@ -69,6 +69,10 @@ a:hover{color: var(--red);text-decoration: none;}
 .events-block a {font-size: 18px;font-style: italic;color: var(--red)}
 .events-block a:hover{color: var(--gold)}
 
+.photos-wrap img{width: 100%;}
+.photos-wrap .title{font-size: 40px;color: var(--red);text-align: center;line-height: 1.2;}
+.photos-wrap .qr-code{width: 200px;display: block;margin: auto;}
+
 .footer-wrap{background-color: var(--red);color: #fff;}
 .footer-menu {text-align: center;}
 a.menu-items{color: #fff;display: block;font-size: 18px;line-height: 1.5;}
